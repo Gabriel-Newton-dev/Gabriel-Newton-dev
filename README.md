@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gabriel Newton
+- 👋 Hi, I’m Gabriel Newton
 - 👀 I’m interested in improve my learning
 - 🌱 I’m currently learning Python e AWS cloud.
 - 💞️ I’m looking to collaborate on python automations
