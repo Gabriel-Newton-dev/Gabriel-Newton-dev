@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel Newton
 - 👀 I’m interested in improve my learning
-- 🌱 I’m currently learning Golang, Python, Html, Java Scrit, Markdown, AWS cloud e Google cloud.
-- 💞️ I’m looking to collaborate on Html, Css e python automations
+- 🌱 I’m currently learning Golang, Python, Html, Java Scrit, Markdown, AWS cloud and Google cloud.
+- 💞️ I’m looking to collaborate on Golang and Python automations
 - 📫 How to reach me gabrielnewton.dev@gmail.com
 
 <!---
