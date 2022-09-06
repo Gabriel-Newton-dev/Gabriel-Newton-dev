@@ -1,4 +1,4 @@
-## Olá eu sou o Gabriel Newton, Full Stack Developer
+## Olá eu sou o Gabriel Newton, FullStack Developer
 <div align="center">
   <a href="https://github.com/Gabriel-Newton-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Newton-dev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -14,18 +14,10 @@
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-          
-  
 </div>
-  
   ##
- 
-<div> 
-
+<div>
   <a href = "mailto:gabrielnewton.dev@gmail.com@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-newton-dos-santos-b15620202/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
